@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Тестовое задание на позицию JS-разработчика",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "http-server": "^0.10.0"
+  }
+}

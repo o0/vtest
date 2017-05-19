@@ -1,0 +1,7 @@
+- [x] `.cities-list` ==> `.cities`
+- [x] `eslint --init`, не хватает изначального конфига ESLint в проекте
+- [x] убрать из `package.json` лицензию
+- [x] убрать `main` из `package.json`
+- [ ] в ТЗ изменить `.layout-map` на `.map`
+- [x] `.cities-name` ==> `.cities-search`
+- [x] убрать шаблон из `index.html`
